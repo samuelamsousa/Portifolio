@@ -1,0 +1,74 @@
+.card-content3{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+
+}
+
+/* Carde sobre mim */
+.card_sobre_min{
+    width: 1000px;
+    height: auto;
+    box-shadow: 20px 20px 20px 20px rgba(128, 128, 128, 0.658);
+}
+
+/* card Formação */
+.card_experiencia{
+    width: 1000PX;
+    box-shadow: 20px 20px 20px 20px rgba(128, 128, 128, 0.658);
+    margin-top: 30px;
+}
+
+/* Formação segundo card 1 */
+.column2 .img1{
+    display: flex;
+    display: flex;
+    width: 900px;
+
+}
+.text_1{
+    display: flex;
+    width: 700px;
+    height: 200px;
+    flex-direction: column;
+}
+
+/* Formação segundo card 2 */
+.column3 .img2{
+    width: 900px;
+    display: flex;
+   
+}
+.text_2{
+    display: flex;
+    width: 700px;
+    height: 200px;
+    flex-direction: column;
+}
+
+/* Card Experiencias */
+.columns_4{
+    
+    display: flex;
+    width: 1000px;
+    margin-top: 30px;
+    box-shadow: 20px 20px 20px 20px rgba(128, 128, 128, 0.658);;
+
+}
+.column_4{
+    
+    display: flex;
+    width: 1000px;
+    height: auto;
+}
+
+.rodape{
+    display: flex;
+    justify-content: end;
+    background-color: rgba(128, 128, 128, 0.795);
+    color: black;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
